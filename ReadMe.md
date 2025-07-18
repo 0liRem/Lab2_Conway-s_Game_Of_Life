@@ -3,7 +3,6 @@
 Este proyecto es una implementación en Rust del famoso **Juego de la Vida de Conway**, utilizando la biblioteca [minifb](https://github.com/emoon/rust_minifb) para gráficos simples basados en framebuffer.
 
 ![Game of Life Animation](./conway_life.gif)  
-*↑ Puedes colocar aquí un gif demostrativo del juego*
 
 ##  Reglas de Conway
 
